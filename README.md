@@ -1,11 +1,20 @@
-# Students_Management
+## Students Management System
 
-Student Management System using Java
-Packages:
-1. Model
-2. Service
-3. Main
-Classes:
-1. Student
-2. StudentManagementSystem
-3. Main
+### Features:
+- Automatic initiation of roll no.
+- Clear response messages in any case
+- Interactive UI
+- Easy to understand UI/UX
+
+------------
+
+
+### Packages:
+- Main -> Runner (main class)
+- Model -> Student
+- Service -> ManagementSystem
+
+### Classes:
+- Main
+- Student
+- StudentManagementSystem
